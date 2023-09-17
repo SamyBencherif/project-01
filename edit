@@ -1,0 +1,4 @@
+#!/bin/bash
+
+# open my custom vimrc for this project
+vim -S .vimrc main.c
